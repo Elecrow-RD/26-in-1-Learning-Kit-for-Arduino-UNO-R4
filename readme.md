@@ -54,14 +54,17 @@ C:\Users\Documents\Arduino\libraries\
 
 
 
-2.Open the Arduino IDE
+
+2.Open the Arduino IDE and install the Uno development boardOpen the Arduino IDE
 
 
+<img width="431" height="424" alt="Arduino_UNO_R4-2" src="https://github.com/user-attachments/assets/8f1cf55f-460f-47b3-9f64-38b0b19794b0" />
 
 
 3.Open the code configuration environment and burn it
 
 
+<img width="936" height="540" alt="Arduino_UNO_R4-4" src="https://github.com/user-attachments/assets/1e1d5637-3c7a-49b1-93af-66bf47bd4faf" />
 
 
 
@@ -77,6 +80,6 @@ C:\Users\Documents\Arduino\libraries\
 |--libraries: Includes necessary libraries required for compiling and running the project. These libraries provide drivers and additional functionalities for the hardware.
 
 ### 7,Pin definition
-
+[uno r4](https://www.elecrow.com/wiki/assets/images/26-in-1_Learning_Kit_for_Arduino_UNO_R4_with_26_lessons_Support_WiFi_and_BLE/Arduino_UNO_R4.webp)
 
 
